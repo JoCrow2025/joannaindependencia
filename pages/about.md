@@ -10,7 +10,8 @@ credits: true
 
 ## Sobre la edición
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non vehicula purus. Proin nec sem tincidunt, facilisis ligula non, volutpat sapien. Phasellus tempor euismod urna quis consectetur. Quisque porttitor, sapien ac sollicitudin pellentesque, ligula diam porta lectus, non sodales nibh ligula ac ex. Ut aliquet ligula ac metus fringilla tempor. Nullam vel viverra purus. Aenean fermentum, justo eu iaculis imperdiet, ex tellus porttitor mi, vel ullamcorper est risus at lectus. Nulla pulvinar suscipit metus, vel vestibulum erat accumsan in. Morbi vitae suscipit urna. Praesent eget sapien dapibus, hendrerit metus et, consectetur ligula. Aliquam quis consequat tortor. Maecenas vel fermentum ante. Curabitur consequat, quam id consequat tempus, mauris arcu ornare leo, eu egestas urna felis a purus. Aliquam sapien diam, porta ut nibh ut, luctus dignissim dui. Nam iaculis consequat ligula sed pellentesque.
+
+This website was created as part of a SLAS-funded workshop "Laboratorio de pensamiento y accion en humanidades digitales" in March 2026. 
 
 **Título**
 
